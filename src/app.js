@@ -2,8 +2,6 @@ const express = require("express");
 const cors = require("cors");
 const { v4: uuid } = require('uuid');
 
-
-// Alterei
 const app = express();
 
 app.use(express.json());
