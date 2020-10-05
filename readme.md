@@ -32,15 +32,15 @@ https://marketplace.visualstudio.com/items?itemName=ms-python.python (Visual stu
 
 - Instalar o Python PIP
 
-    ** Windons 
+    ** Windons **
     baixar o arquivo https://bootstrap.pypa.io/get-pip.py
     Executar no terminal o seguinte comando:
     $ python get-pip.py
 
-    ** Linux 
+    ** Linux **
     $ sudo apt-get install python3-pip
 
-    ** Mac
+    ** Mac **
     $ sudo easy_install pip
 
 
