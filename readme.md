@@ -66,7 +66,7 @@ $ Python3 app.py
 
 ```bash
 # unit tests
-$ python3 test
+$ pytest
 ```
 
 
