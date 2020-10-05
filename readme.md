@@ -22,11 +22,37 @@
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## Instalação 📚
+## Instalação :minidisc:
 
+ - Instalar o Python na maquina
+https://www.python.org/downloads/
+
+- Instalar o pacotes ou plugins que sua Ide ofereça para facilitar o desenvolvimento com o Python
+https://marketplace.visualstudio.com/items?itemName=ms-python.python (Visual studio Code)
+
+- Instalar o Python PIP
+
+** Windons 
+baixar o arquivo https://bootstrap.pypa.io/get-pip.py
+Executar no terminal o seguinte comando:
+$ python get-pip.py
+
+** Linux 
+$ sudo apt-get install python3-pip
+
+** Mac
+$ sudo easy_install pip
+
+
+## Configuração :wrench:
 ```bash
-# install dependencies
+# 
 $ yarn
+
+# Criar o ambiente de desenvolvimento Python
+$ python3 -m venv venv
+# Ativar o ambiente de desenvolvimento criado
+$ source venv/bin/activate
 ```
 
 ## Executar o app ▶
@@ -68,15 +94,21 @@ style: convert tabs to spaces
 test: ensure Tayne retains clothing
 ```
 
-
 ## Author
 
 👤 **Arquitetura Corporativa**
 
 
-## Show your support
+## Supporting 🍻
+www.meta.com.br
 
-Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+## Happy coding 💯
+Made with ❤️ for Meta team, Rio de Janeiro.
+
+
+</br>
+
+<p align="center">
+  <a href="https://www.meta.com.br/" target="blank"><img src="https://www.meta.com.br/wp-content/uploads/2019/04/logo.png" alt="Meta Logo" /></a>
+</p>
