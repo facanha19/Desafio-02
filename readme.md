@@ -9,11 +9,13 @@
   Motor de scraping para automações diversas, utilitário
 </p>  
 
-   | v 1.0 | - |
+  <br/>
+  
+   | - | - |
    | - | ------------ |
    |🏠 [Homepage](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine) |✨ [Demo](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine)|
 
-
+  <br/>
 
 
 
