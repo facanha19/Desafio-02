@@ -1,19 +1,67 @@
-<h1 align="center">Welcome to Scraping Engine 👋</h1>
+<p align="center">
+  <h1 align="center">Welcome to Scraping Engine 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
+  Motor de scraping para automações diversas, utilitário.
+</p>  
 </p>
 
-> Motor de scraping para automações diversas, utilitário.
+
+> 
 
 ### 🏠 [Homepage](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine)
 
 ### ✨ [Demo](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine)
 
 
-> Getting started
+## Installation 📚
+
+```bash
+# install dependencies
+$ yarn
+```
+
+## Running the app ▶
+
+```bash
+# development
+$ yarn start
+
+# watch mode
+$ yarn start:dev
+
+# production mode
+$ yarn start:prod
+```
+
+## Running migrations ▶
+
+```bash
+# run migration
+$ yarn migration:run
+
+# create migration
+$ yarn migration:generate
+
+# revert migration
+$ yarn migration:revert
+```
+
+## Test 🕵️
+
+```bash
+# unit tests
+$ yarn test
+
+# e2e tests
+$ yarn test:e2e
+
+# test coverage
+$ yarn test:cov
+```
 
 
 
