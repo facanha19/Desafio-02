@@ -8,9 +8,9 @@
 </p>  
 
 <p align="center"> 
-   | Motor de scraping para automações diversas, utilitário | v 1.0 |
-  | - | ------------ |
-  |🏠 [Homepage](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine) |✨ [Demo](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine)|
+   | Motor de scraping para automações diversas, utilitário |  |
+   | - | ------------ |
+   |🏠 [Homepage](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine) |✨ [Demo](https://dev.azure.com/localiza/Arquitetura%20Corporativa/_git/Scraping%20Engine)|
 </p>
 
 
