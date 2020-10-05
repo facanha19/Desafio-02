@@ -42,43 +42,31 @@ https://marketplace.visualstudio.com/items?itemName=ms-python.python (Visual stu
 
     **Mac** <br/>
     $ sudo easy_install pip
-
+    
+<br/>
 
 ## Configuração :wrench:
 ```bash
-# 
-$ yarn
-
 # Criar o ambiente de desenvolvimento Python
 $ python3 -m venv venv
 # Ativar o ambiente de desenvolvimento criado
 $ source venv/bin/activate
+# Instalar as dependencias do projeto
+$ pip install -r requirements.txt
 ```
 
 ## Executar o app ▶
 
 ```bash
 # development
-$ yarn start
-
-# watch mode
-$ yarn start:dev
-
-# production mode
-$ yarn start:prod
+$ Python3 app.py
 ```
 
 ## Test 🕵️
 
 ```bash
 # unit tests
-$ yarn test
-
-# e2e tests
-$ yarn test:e2e
-
-# test coverage
-$ yarn test:cov
+$ python3 test
 ```
 
 
