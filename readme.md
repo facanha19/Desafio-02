@@ -25,23 +25,23 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Instalação :minidisc:
 
  - Instalar o Python na maquina
-https://www.python.org/downloads/
+ https://www.python.org/downloads/
 
 - Instalar o pacotes ou plugins que sua Ide ofereça para facilitar o desenvolvimento com o Python
 https://marketplace.visualstudio.com/items?itemName=ms-python.python (Visual studio Code)
 
 - Instalar o Python PIP
 
-** Windons 
-baixar o arquivo https://bootstrap.pypa.io/get-pip.py
-Executar no terminal o seguinte comando:
-$ python get-pip.py
+    ** Windons 
+    baixar o arquivo https://bootstrap.pypa.io/get-pip.py
+    Executar no terminal o seguinte comando:
+    $ python get-pip.py
 
-** Linux 
-$ sudo apt-get install python3-pip
+    ** Linux 
+    $ sudo apt-get install python3-pip
 
-** Mac
-$ sudo easy_install pip
+    ** Mac
+    $ sudo easy_install pip
 
 
 ## Configuração :wrench:
