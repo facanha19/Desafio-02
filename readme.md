@@ -24,7 +24,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Instalação :minidisc:
 
- - Instalar o Python na maquina
+ - Instalar o Python na maquina <br/>
  https://www.python.org/downloads/
 
 - Instalar o pacotes ou plugins que sua Ide ofereça para facilitar o desenvolvimento com o Python
@@ -32,15 +32,15 @@ https://marketplace.visualstudio.com/items?itemName=ms-python.python (Visual stu
 
 - Instalar o Python PIP
 
-    ** Windons **
-    baixar o arquivo https://bootstrap.pypa.io/get-pip.py
-    Executar no terminal o seguinte comando:
+    **Windons** <br/>
+    baixar o arquivo https://bootstrap.pypa.io/get-pip.py <br/>
+    Executar no terminal o seguinte comando: <br/>
     $ python get-pip.py
 
-    ** Linux **
+    **Linux** <br/>
     $ sudo apt-get install python3-pip
 
-    ** Mac **
+    **Mac** <br/>
     $ sudo easy_install pip
 
 
